@@ -1,0 +1,14 @@
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.csprojAssemblyReference.cache
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.AssemblyInfoInputs.cache
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.AssemblyInfo.cs
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.csproj.CoreCompileInputs.cache
+C:\Xamarin\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.deps.json
+C:\Xamarin\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.dll
+C:\Xamarin\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\ref\StackLayout.dll
+C:\Xamarin\StackLayout\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.pdb
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.dll
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\ref\StackLayout.dll
+C:\Xamarin\StackLayout\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.pdb
